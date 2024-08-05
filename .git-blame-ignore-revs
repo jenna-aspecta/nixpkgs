@@ -1,5 +1,7 @@
 # This file contains a list of commits that are not likely what you
 # are looking for in a blame, such as mass reformatting or renaming.
+# This file contains a list of commits that are not likely what you
+# are looking for in a blame, such as mass reformatting or renaming.
 # You can set this file as a default ignore file for blame by running
 # the following command.
 #
